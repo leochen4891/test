@@ -1,5 +1,11 @@
 here is the test1 file, and it's the release
 
+<<<<<<< HEAD
 here is some updates for test1
 
 here is 3rd update
+=======
+this is a new feature for april
+
+a new feature for april updated
+>>>>>>> feature-april
